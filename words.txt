@@ -1,0 +1,3 @@
+한국어:사과   영어:apple   프랑스어:pomme   독일어:apfel
+한국어:책   영어:book   프랑스어:livre   독일어:buch
+한국어:집   영어:house   프랑스어:maison   독일어:haus
